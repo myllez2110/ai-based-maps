@@ -1,0 +1,5 @@
+fastapi
+sanity-client
+requests
+beautifulsoup4
+playwright
